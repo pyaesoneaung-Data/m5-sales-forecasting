@@ -1,0 +1,42 @@
+# Dataset files
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+**/kaggle.json
+
+# Forecast/submission outputs
+outputs/forecasts/*.csv
+!outputs/forecasts/.gitkeep
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+~$*
+
+# Model binaries
+*.pkl
+*.joblib
+
+# Operating system files
+.DS_Store
+Thumbs.db
