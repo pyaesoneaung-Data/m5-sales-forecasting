@@ -40,3 +40,7 @@ __pycache__/
 # Operating system files
 .DS_Store
 Thumbs.db
+# Local presentation exports
+presentation/*.pptx
+presentation/presentation_script.md
+

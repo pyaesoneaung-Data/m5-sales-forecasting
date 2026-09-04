@@ -131,6 +131,10 @@ Open the notebooks with the `.venv` kernel and run them in order:
 .\.venv\Scripts\python.exe src\modeling_pipeline.py
 ```
 
+## Final Report
+
+- Final supervisor report: [reports/M5_Sales_Forecasting_Final_Report.pdf](reports/M5_Sales_Forecasting_Final_Report.pdf)
+
 ## Expected Generated Outputs
 
 - `data/processed/ca1_sales_long.parquet`
